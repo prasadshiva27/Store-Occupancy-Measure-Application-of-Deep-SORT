@@ -7,6 +7,9 @@ Yolov3 is an algorithm that uses deep convolutional neural networks to perform o
 ### Description
 In our collective fight against the coronavirus (COVID-19), we can all contribute — especially by keeping a safe physical distance from each other.
 This application is one of few that helps in making ourselves maintaining a physical distance in Stores.
+
+Store Occupancy can monitor shopper entrance and exits from the entry door surveillance camera without requiring manual counts and displays the total number of people in the store in real-time.
+
 This functionality can be tied into an I/O device to control red/green status lights or an audio alert to ensure prompt guidance to customers. For example, a green light at the doorway indicating guests can enter the premise and flashing red light if the store is at full capacity. An audio message can warn a guest attempting to enter while the store is above capacity.
 The above gif shows an alert when store reaches the occupancy of 100.
 
